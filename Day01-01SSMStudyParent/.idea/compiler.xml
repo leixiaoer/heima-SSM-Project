@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Day01-01SSMStudySonUtils" />
+        <module name="Day01-01SSMStudySonDomain" />
+        <module name="Day01-01SSMStudySonService" />
+        <module name="Day01-01SSMStudySonWeb" />
+        <module name="Day01-01SSMStudySonDao" />
+        <module name="Day01-01SSMStudySpringSecurity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Day01-01SSMStudyParent" target="1.8" />
+      <module name="Day01-01SSMStudySonDao" target="1.8" />
+      <module name="Day01-01SSMStudySonDomain" target="1.8" />
+      <module name="Day01-01SSMStudySonService" target="1.8" />
+      <module name="Day01-01SSMStudySonUtils" target="1.8" />
+      <module name="Day01-01SSMStudySonWeb" target="1.8" />
+      <module name="Day01-01SSMStudySpringSecurity" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
