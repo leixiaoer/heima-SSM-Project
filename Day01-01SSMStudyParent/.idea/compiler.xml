@@ -15,7 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Day01-01SSMStudyParent" target="1.8" />
+      <module name="Day01-01SSMStudyParent" target="1.5" />
       <module name="Day01-01SSMStudySonDao" target="1.8" />
       <module name="Day01-01SSMStudySonDomain" target="1.8" />
       <module name="Day01-01SSMStudySonService" target="1.8" />
